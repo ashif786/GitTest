@@ -1,5 +1,5 @@
 <?php
-//Array is good
+ 
 //$array=['one','two'];
 $array=array('one','two');
 foreach($array as $row)

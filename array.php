@@ -1,5 +1,5 @@
 <?php
-//Array is good
+//its Master branch
 //$array=['one','two'];
 $array=array('one','two');
 foreach($array as $row)
